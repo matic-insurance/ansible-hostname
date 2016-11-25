@@ -1,0 +1,2 @@
+---
+short_hostname: '{{ fqdn_hostname.split(".")[0] }}'
